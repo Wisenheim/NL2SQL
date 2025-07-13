@@ -15,6 +15,7 @@ VALUES
 
 
 
+
 -- === Schema definition ===
 CREATE TABLE address (
     address_id   SERIAL PRIMARY KEY,
