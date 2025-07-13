@@ -62,3 +62,6 @@ curl http://localhost:11434/api/chat -d '{
   ]
 }' -H "Content-Type: application/json"
 
+
+
+
